@@ -1,6 +1,5 @@
 ## ``` Hello world! ```
 
 [Main website](https://rysanlos.me)\
-[Discord server](https://rysanlos.me/discord)\
-[SteamFriends.info](https://steamfriends.info)\
-[PrepareYourWallet.com](https://prepareyourwallet.com)
+[Discord server (French)](https://rysanlos.me/discord)\
+[Discord server (English)](https://discord.gg/xfsZHtJ9HQ)\
